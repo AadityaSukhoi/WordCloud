@@ -9,12 +9,16 @@ WordCloud visualization is a powerful tool to represent text data in a visually 
 
 # Key Features of a Word Cloud:
 a. Word Size: The size of each word is proportional to its frequency or significance in the dataset.
+
 b. Color and Font: Words can have different colors and fonts, which can further emphasize the importance or categories of words.
+
 c. Orientation: Words can be oriented in different directions (horizontal, vertical, diagonal) to create a more dynamic design.
 
 # Applications of Word Clouds:
 a. Survey Results: Visualizing common responses or feedback.
+
 b. Customer Reviews: Identifying the most mentioned aspects of a product or service.
+
 c. Social Media Analysis: Highlighting trends or popular hashtags.
 d. Sentiment Analysis: Identifying positive or negative sentiments in text data.
 
